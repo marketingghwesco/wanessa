@@ -7,7 +7,7 @@ ORG:GH Wesco;
 TITLE:International Trade, Analyst
 EMAIL;type=INTERNET;type=WORK;type=pref:darlan.mendes@ghwesco.com.br
 TEL;type=WORK;type=VOICE:021 9880 20298
-item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;138577;Rio de Janeiro
+item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;;Rio de Janeiro
 item1.X-ABADR:sg
 item2.URL;type=pref:ghwesco.com.br
 item2.X-ABLabel:_$!<HomePage>!$_
